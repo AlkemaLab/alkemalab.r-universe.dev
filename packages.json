@@ -2,5 +2,15 @@
     {
         "package": "bayescoveragedeploy",
         "url": "https://github.com/AlkemaLab/bayescoveragedeploy"
+    },
+
+    {
+        "package": "bayescoveragemodel",
+        "url": "https://github.com/AlkemaLab/bayescoveragemodel"
+    },
+
+    {
+        "package": "localhierarchy",
+        "url": "https://github.com/AlkemaLab/localhierarchy"
     }
 ]
